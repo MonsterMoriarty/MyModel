@@ -1,0 +1,2 @@
+model_checkpoint_path: "ckpt-step-26789.ckp"
+all_model_checkpoint_paths: "ckpt-step-26789.ckp"
